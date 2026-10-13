@@ -85,9 +85,7 @@ export default function Services() {
 
               {/* Text */}
               <div className="p-5">
-                <p className="text-xs text-slate-400 mb-1">
-                  {String(i + 1).padStart(2, "0")}
-                </p>
+                
                 <p className="font-semibold text-slate-900 group-hover:text-amber-700 transition">
                   {s.title}
                 </p>
