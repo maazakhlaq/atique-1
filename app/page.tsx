@@ -1,5 +1,6 @@
 
 import About from "./components/About";
+import FounderMessage from "./components/FounderMessage";
 import Hero from "./components/Hero";
 import Leadership from "./components/Leadership";
 import Pillars from "./components/Pillars";
@@ -13,6 +14,7 @@ export default function Home() {
     <>
       <Hero />
       <About />
+       <FounderMessage /> 
       <Pillars />
       <Services />
       <VisionMission />
