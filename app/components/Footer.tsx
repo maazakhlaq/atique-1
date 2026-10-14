@@ -91,7 +91,7 @@ export default function Footer() {
                 href="mailto:info@atqon.sa.com"
                 className="hover:text-amber-500 transition"
               >
-                info@atqon.sa.com
+                info@atqon.com.sa
               </a>
             </li>
             <li>
